@@ -1,0 +1,29 @@
+version: '3'
+services:
+
+  we-postgres:
+    image: "postgres:9.6-alpine"
+    container_name: we-postgres
+    volumes:
+      - we-data:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_DB=WomenEmpowermentDB
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=siddhesh
+
+  womenempowerment:
+    image: siddhesh1189/women-empowerment
+    container_name: womenempowerment
+    environment:
+      - DB_SERVER=we-postgres
+      - POSTGRES_DB=WomenEmpowermentDB
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=siddhesh
+    ports:
+      - 80:8234
+    links:
+      - we-postgres
+volumes:
+  we-data:

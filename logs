@@ -1,0 +1,132 @@
+2022-04-20-09:58:30 - Starting WomenEmpowermentApplication using Java 17.0.1 on DESKTOP-J15V8SR with PID 11144 (F:\WomenEmpowerment_Later\WomenEmpowerment_Later\target\classes started by ASUS in F:\WomenEmpowerment_Later\WomenEmpowerment_Later)
+2022-04-20-09:58:30 - No active profile set, falling back to default profiles: default
+2022-04-20-09:58:32 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-09:58:32 - Finished Spring Data repository scanning in 124 ms. Found 7 JPA repository interfaces.
+2022-04-20-09:59:11 - Starting WomenEmpowermentApplication using Java 17.0.1 on DESKTOP-J15V8SR with PID 21480 (F:\WomenEmpowerment_Later\WomenEmpowerment_Later\target\classes started by ASUS in F:\WomenEmpowerment_Later\WomenEmpowerment_Later)
+2022-04-20-09:59:11 - No active profile set, falling back to default profiles: default
+2022-04-20-09:59:11 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20-09:59:11 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20-09:59:13 - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2022-04-20-09:59:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-09:59:16 - Finished Spring Data repository scanning in 344 ms. Found 7 JPA repository interfaces.
+2022-04-20-09:59:22 - Tomcat initialized with port(s): 8234 (http)
+2022-04-20-09:59:22 - Starting service [Tomcat]
+2022-04-20-09:59:22 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-04-20-09:59:23 - Initializing Spring embedded WebApplicationContext
+2022-04-20-09:59:23 - Root WebApplicationContext: initialization completed in 11062 ms
+2022-04-20-09:59:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-09:59:24 - HHH000412: Hibernate ORM core version 5.4.31.Final
+2022-04-20-09:59:25 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20-09:59:25 - HikariPool-1 - Starting...
+2022-04-20-09:59:26 - HikariPool-1 - Start completed.
+2022-04-20-09:59:26 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-09:59:29 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-09:59:29 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-09:59:30 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-09:59:36 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@27375e9a, org.springframework.security.web.context.SecurityContextPersistenceFilter@60dac97d, org.springframework.security.web.header.HeaderWriterFilter@400991ef, org.springframework.security.web.csrf.CsrfFilter@1be29cb9, org.springframework.security.web.authentication.logout.LogoutFilter@4bea2a51, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@752000fc, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4fa5f002, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5e04945d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6352ca98, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@18996500, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5cb5a9df, org.springframework.security.web.session.SessionManagementFilter@31fc7786, org.springframework.security.web.access.ExceptionTranslationFilter@69006ee6, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6f5b5cc0]
+2022-04-20-09:59:36 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-09:59:36 - LiveReload server is running on port 35729
+2022-04-20-09:59:37 - Tomcat started on port(s): 8234 (http) with context path ''
+2022-04-20-09:59:37 - Context refreshed
+2022-04-20-09:59:37 - Found 1 custom documentation plugin(s)
+2022-04-20-09:59:37 - Scanning for api listing references
+2022-04-20-09:59:38 - Started WomenEmpowermentApplication in 29.797 seconds (JVM running for 32.336)
+2022-04-20-09:59:38 - Application availability state LivenessState changed to CORRECT
+2022-04-20-09:59:38 - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-04-20-10:00:24 - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-04-20-10:00:24 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-10:00:24 - HikariPool-1 - Shutdown initiated...
+2022-04-20-10:00:24 - HikariPool-1 - Shutdown completed.
+2022-04-20-10:00:25 - Starting WomenEmpowermentApplication using Java 17.0.1 on DESKTOP-J15V8SR with PID 21480 (F:\WomenEmpowerment_Later\WomenEmpowerment_Later\target\classes started by ASUS in F:\WomenEmpowerment_Later\WomenEmpowerment_Later)
+2022-04-20-10:00:25 - No active profile set, falling back to default profiles: default
+2022-04-20-10:00:26 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-10:00:26 - Finished Spring Data repository scanning in 150 ms. Found 7 JPA repository interfaces.
+2022-04-20-10:00:27 - Tomcat initialized with port(s): 8234 (http)
+2022-04-20-10:00:27 - Starting service [Tomcat]
+2022-04-20-10:00:27 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-04-20-10:00:27 - Initializing Spring embedded WebApplicationContext
+2022-04-20-10:00:27 - Root WebApplicationContext: initialization completed in 2659 ms
+2022-04-20-10:00:27 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-10:00:27 - HikariPool-2 - Starting...
+2022-04-20-10:00:28 - HikariPool-2 - Start completed.
+2022-04-20-10:00:28 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-10:00:29 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-10:00:29 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-10:00:29 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-10:00:31 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@651d861d, org.springframework.security.web.context.SecurityContextPersistenceFilter@17cb89e7, org.springframework.security.web.header.HeaderWriterFilter@6436d54d, org.springframework.security.web.csrf.CsrfFilter@54e9f6b2, org.springframework.security.web.authentication.logout.LogoutFilter@533958a1, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5a811274, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@287a7fa2, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@674f32c6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@13446f0b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@410a4c93, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6c357e53, org.springframework.security.web.session.SessionManagementFilter@c8ca2a2, org.springframework.security.web.access.ExceptionTranslationFilter@2174afea, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@71bf49dd]
+2022-04-20-10:00:31 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-10:00:31 - LiveReload server is running on port 35729
+2022-04-20-10:00:32 - Tomcat started on port(s): 8234 (http) with context path ''
+2022-04-20-10:00:32 - Context refreshed
+2022-04-20-10:00:32 - Found 1 custom documentation plugin(s)
+2022-04-20-10:00:32 - Scanning for api listing references
+2022-04-20-10:00:32 - Started WomenEmpowermentApplication in 7.927 seconds (JVM running for 86.205)
+2022-04-20-10:00:32 - Application availability state LivenessState changed to CORRECT
+2022-04-20-10:00:32 - Condition evaluation unchanged
+2022-04-20-10:00:32 - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-04-20-10:01:26 - Starting WomenEmpowermentApplication using Java 17.0.1 on DESKTOP-J15V8SR with PID 7760 (F:\WomenEmpowerment_Later\WomenEmpowerment_Later\target\classes started by ASUS in F:\WomenEmpowerment_Later\WomenEmpowerment_Later)
+2022-04-20-10:01:26 - No active profile set, falling back to default profiles: default
+2022-04-20-10:01:27 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20-10:01:27 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20-10:01:28 - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2022-04-20-10:01:30 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-10:01:30 - Finished Spring Data repository scanning in 245 ms. Found 7 JPA repository interfaces.
+2022-04-20-10:01:33 - Tomcat initialized with port(s): 8234 (http)
+2022-04-20-10:01:34 - Starting service [Tomcat]
+2022-04-20-10:01:34 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-04-20-10:01:34 - Initializing Spring embedded WebApplicationContext
+2022-04-20-10:01:34 - Root WebApplicationContext: initialization completed in 7273 ms
+2022-04-20-10:01:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-10:01:35 - HHH000412: Hibernate ORM core version 5.4.31.Final
+2022-04-20-10:01:35 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20-10:01:36 - HikariPool-1 - Starting...
+2022-04-20-10:01:36 - HikariPool-1 - Start completed.
+2022-04-20-10:01:36 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-10:01:41 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-10:01:41 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-10:01:41 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-10:01:45 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6cd54417, org.springframework.security.web.context.SecurityContextPersistenceFilter@759ff2c5, org.springframework.security.web.header.HeaderWriterFilter@7f872f83, org.springframework.security.web.csrf.CsrfFilter@6e59990e, org.springframework.security.web.authentication.logout.LogoutFilter@706375a8, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@18b770ca, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@59c9bdca, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1566d552, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7db2cc1d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@27655b4e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@26692beb, org.springframework.security.web.session.SessionManagementFilter@72e664f9, org.springframework.security.web.access.ExceptionTranslationFilter@6b5a8267, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@749e30fb]
+2022-04-20-10:01:45 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-10:01:46 - LiveReload server is running on port 35729
+2022-04-20-10:01:47 - Tomcat started on port(s): 8234 (http) with context path ''
+2022-04-20-10:01:47 - Context refreshed
+2022-04-20-10:01:47 - Found 1 custom documentation plugin(s)
+2022-04-20-10:01:47 - Scanning for api listing references
+2022-04-20-10:01:48 - Started WomenEmpowermentApplication in 23.635 seconds (JVM running for 26.27)
+2022-04-20-10:01:48 - Application availability state LivenessState changed to CORRECT
+2022-04-20-10:01:48 - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-04-20-10:01:58 - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-04-20-10:01:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-10:01:58 - HikariPool-1 - Shutdown initiated...
+2022-04-20-10:01:58 - HikariPool-1 - Shutdown completed.
+2022-04-20-10:01:59 - Starting WomenEmpowermentApplication using Java 17.0.1 on DESKTOP-J15V8SR with PID 7760 (F:\WomenEmpowerment_Later\WomenEmpowerment_Later\target\classes started by ASUS in F:\WomenEmpowerment_Later\WomenEmpowerment_Later)
+2022-04-20-10:01:59 - No active profile set, falling back to default profiles: default
+2022-04-20-10:02:01 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-10:02:01 - Finished Spring Data repository scanning in 125 ms. Found 7 JPA repository interfaces.
+2022-04-20-10:02:02 - Tomcat initialized with port(s): 8234 (http)
+2022-04-20-10:02:02 - Starting service [Tomcat]
+2022-04-20-10:02:02 - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-04-20-10:02:02 - Initializing Spring embedded WebApplicationContext
+2022-04-20-10:02:02 - Root WebApplicationContext: initialization completed in 2952 ms
+2022-04-20-10:02:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-10:02:02 - HikariPool-2 - Starting...
+2022-04-20-10:02:02 - HikariPool-2 - Start completed.
+2022-04-20-10:02:02 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-10:02:04 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-10:02:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-10:02:04 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-10:02:06 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5563e666, org.springframework.security.web.context.SecurityContextPersistenceFilter@7b115c91, org.springframework.security.web.header.HeaderWriterFilter@2bcda5e5, org.springframework.security.web.csrf.CsrfFilter@2c11ea25, org.springframework.security.web.authentication.logout.LogoutFilter@1e4c77f2, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@9020beb, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@639fc536, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@73de1ea7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6b2cfef7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2d888cfa, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@672d1a43, org.springframework.security.web.session.SessionManagementFilter@5872c578, org.springframework.security.web.access.ExceptionTranslationFilter@59a93094, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@770c7d72]
+2022-04-20-10:02:06 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-10:02:06 - LiveReload server is running on port 35729
+2022-04-20-10:02:06 - Tomcat started on port(s): 8234 (http) with context path ''
+2022-04-20-10:02:06 - Context refreshed
+2022-04-20-10:02:06 - Found 1 custom documentation plugin(s)
+2022-04-20-10:02:06 - Scanning for api listing references
+2022-04-20-10:02:07 - Started WomenEmpowermentApplication in 8.022 seconds (JVM running for 44.65)
+2022-04-20-10:02:07 - Application availability state LivenessState changed to CORRECT
+2022-04-20-10:02:07 - Condition evaluation unchanged
+2022-04-20-10:02:07 - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-04-20-10:02:57 - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-04-20-10:02:57 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-10:02:57 - HikariPool-2 - Shutdown initiated...
+2022-04-20-10:02:57 - HikariPool-2 - Shutdown completed.
